@@ -1,2 +1,2 @@
 # Columns-Game
-A Columns game clone written in Python using the Pygame library.
+A Columns game clone written in Python using the pygame library.
